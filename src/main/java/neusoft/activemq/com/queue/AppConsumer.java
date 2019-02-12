@@ -1,10 +1,8 @@
 package neusoft.activemq.com.queue;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
-import org.apache.activemq.broker.ConsumerBrokerExchange;
 
 import javax.jms.*;
-import javax.xml.soap.Text;
 
 public class AppConsumer {
 
